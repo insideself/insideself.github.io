@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insideself.github.io/sitemap.xml
